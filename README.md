@@ -1,2 +1,2 @@
-starosta13
+starosta13 - Repozytorium informacyjne
 ==========
